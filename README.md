@@ -1,6 +1,14 @@
-# flutter_revision_1
+FlutterCardApp is a mobile application built using Flutter that displays a set of customizable cards, simulating a business card or personal profile card interface. Users can personalize their cards with names, roles, and contact details in a visually appealing layout.
 
-A new Flutter project.
+Features
+Display a personalized card with name, role, and contact details.
+Clean and simple UI with Flutter's Material Design.
+Customizable card design for different profiles or purposes.
+Cross-platform support for both Android and iOS.
+
+Technologies Used:
+Flutter (Dart)
+Material Design Components
 
 ## Getting Started
 
